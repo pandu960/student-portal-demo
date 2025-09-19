@@ -1,0 +1,6 @@
+Name: George yona
+Group : Ai&r
+rollno:2366250039
+hallticketno:234107165021
+branch:SADC
+year:2023-2026
